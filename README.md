@@ -1,4 +1,9 @@
+#Rate limiting is the worst
+#flask app works
+#react - redux is wired up to flask apis
+#did not finish front end display / logic 
 
+#bash 
 cd pillar/webpack 
 yarn build 
 
